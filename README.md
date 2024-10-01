@@ -1,1 +1,2 @@
-# test_equipment_management
+* Установить данные для подключения к базе данных в файле config/db.php.
+* Запустить скрипт для создания таблиц в базе данных: php src/create_tables.php.
